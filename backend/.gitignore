@@ -1,6 +1,7 @@
 # compiled output
 /dist
 /node_modules
+/requests
 
 # Logs
 logs
@@ -22,6 +23,7 @@ lerna-debug.log*
 /.idea
 .project
 .classpath
+.env
 .c9/
 *.launch
 .settings/
